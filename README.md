@@ -1,6 +1,6 @@
 # Tests automatisés Playwright – Saucedemo
 
-Projet de tests automatisés réalisé pour me former à Playwright, en complément de mon expérience de testeur QA (tests fonctionnels, Cypress, Postman, SQL).
+Projet de tests automatisés réalisé avec Playwright.
 
 Les tests portent sur [saucedemo.com](https://www.saucedemo.com), un site e-commerce de démonstration, et sur l'API publique [JSONPlaceholder](https://jsonplaceholder.typicode.com).
 
