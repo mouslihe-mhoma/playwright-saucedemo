@@ -4,7 +4,7 @@ export class LoginPage {
     constructor(private page: Page) {}
 
     async ouvrir() {
-        await this.page.goto('https://www.saucedemo.com/');
+        await this.page.goto('/');
     }
 
     async seConnecter(user: string, password: string) {
